@@ -18,7 +18,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+![snake gif](https://github.com/nimesha-savinda/nimesha-savinda/blob/output/github-snake-dark.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=nimesha-savinda&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
